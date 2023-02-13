@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "test-native",
+    "slug": "test-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a70476ad-616b-412b-bcd9-f8fff09cbbad"
+      }
+    }
+  },
+  "name": "test-native"
+}

@@ -1,0 +1,5 @@
+export {default as ICat} from './cat'
+export {default as IFavorite} from './favorite'
+export {default as IProduct} from './product'
+export {StackParamList} from './stackParams'
+export {NavigationProps} from './navigationProp'
